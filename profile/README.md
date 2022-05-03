@@ -3,6 +3,8 @@
 
 ### equipe
 <img src="https://avatars.githubusercontent.com/u/102948001?s=96&v=4" width="60" height="60"/>
+<img src="https://avatars.githubusercontent.com/u/32886899?v=4" width="60" height="60"/>
+
 <!--
 
 **Here are some ideas to get you started:**
