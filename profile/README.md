@@ -1,8 +1,6 @@
 ### paneladebarro! 🍲
 ### contato: ola.paneladebarro@gmail.com
 
-### equipe
-
 <!--
 
 **Here are some ideas to get you started:**
