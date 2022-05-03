@@ -1,7 +1,8 @@
 ### paneladebarro! 🍲
 ### contato: ola.paneladebarro@gmail.com
 
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
+### equipe
+<img src="https://avatars.githubusercontent.com/u/102948001?s=96&v=4" width="40" height="40"/>
 <!--
 
 **Here are some ideas to get you started:**
